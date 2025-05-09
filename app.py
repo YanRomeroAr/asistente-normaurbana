@@ -48,7 +48,7 @@ st.markdown("""
 st.image("https://piasar-capacita.creation.camp/wp-content/uploads/sites/55/2021/12/Logo-1-MVCS.png", width=200)
 
 # Título y subtítulo
-st.title("NormaUrbana - Asistente IA del PDM")
+st.title("NormaUrbana - Asistente del PDM")
 st.markdown("Haz tus consultas sobre el Manual de Planes de Desarrollo Metropolitano (RD-003-2021-VIVIENDA) y obtén respuestas claras y rápidas.")
 
 # ---------------------------
